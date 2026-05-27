@@ -8,6 +8,3 @@ def justin():
         "interests": ["AI/ML", "backend systems", "Learning New Things!"],
     }
 ```
----
-
-**Get in touch:** szerlagjustin@gmail.com
