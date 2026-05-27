@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**jszerlag/jszerlag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Justin Szerlag
+ 
+```python
+def justin():
+    return {
+        "education": "CS Grad from Wayne State University",
+        "stack":     ["Python", "C++", "Java", "React", "Flask"],
+        "interests": ["AI/ML", "backend systems", "Learning New Things!"],
+    }
+```
+ 
+**Get in touch:** szerlagjustin@gmail.com
